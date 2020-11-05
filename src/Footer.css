@@ -1,0 +1,17 @@
+.footer {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  align-items: center;
+}
+
+.footer__logo {
+  width: 150px;
+  object-fit: contain;
+}
+
+.footer__icon {
+  width: 60px;
+  object-fit: contain;
+}
